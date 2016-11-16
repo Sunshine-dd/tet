@@ -1,0 +1,7 @@
+/* 引入reset.css*/
+/*@import './reset.css';*/
+#aa{
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
