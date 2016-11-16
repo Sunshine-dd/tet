@@ -1,5 +1,6 @@
-module.exports = {
+﻿module.exports = {
 	//配置入口文件(需要打包的文件)
+	//1111111111111111
 	entry:'./build/js/index.js',
 	//输出目录以及输出名字
 	output:{
